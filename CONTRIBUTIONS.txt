@@ -1,0 +1,15 @@
+CONTRIBUTIONS
+
+Chen Ruihan: Implemented and debugged the software, code modularization, designed CNN and EfficientNet-B0, benchmarked part of the models.
+
+Qiu Zhichen: Develop an EfficientNet-B0 + XGBoost model, discarding a low-accuracy KNN alternative. Generate Grad-CAM visualizations for different models.
+
+Zhu Taoyu: Develop a feature extraction and generation technique for machine learning models, develop and train DenseNet, develop a deep learning-machine learning mixed model. 
+
+Wu Di: Benchmarked models and generated the benchmarking figure, developed the SVM and Random Forest models.
+
+Shi Zhongyu: Developed Vgg16 and ViT models. 
+
+Zhang Linfeng: Developed supervised deep learning models InceptionV3 and ResNet34. 
+
+Fang Ruihan: Developed unet and resnet50 models. Create the framework of GUI, integrate and register the alignment model interface into our GUI.
